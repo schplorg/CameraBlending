@@ -2,8 +2,8 @@
 {
 	Properties
 	{
-		_MainTex ("Texture", 2D) = "white" {}
-		_RenderTex ("Texture", 2D) = "white" {}
+		_MainTex ("_MainTex", 2D) = "white" {}
+		_RenderTex ("_RenderTex", 2D) = "white" {}
 		_Mix("Mix", Range(0.0, 1.0)) = 0.5
 	}
 	SubShader
